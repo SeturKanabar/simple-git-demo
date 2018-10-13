@@ -3,4 +3,9 @@ Add more content
 Add more plus content
 add some more about branches
 merge test
+<<<<<<< HEAD
 merge test %%%%
+=======
+merge test 2
+merge test 3
+>>>>>>> branch-test
